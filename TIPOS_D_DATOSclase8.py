@@ -19,6 +19,12 @@ print("my_age =>", my_age)#lo que tenemos entre comillas es lo que el usuario le
 #ahora tenemos el tipo de datos Booleanos los cuales son solo de Verdad o Falzo
 #por ejemplo imaginemos que queremos decir que una persona esta soltera, se haria asi:
 
+#boolean
 the_person_is_single = True #importante siempre poner las letras en mayuscula "True" "False"
 print("La persona es soltera =>", the_person_is_single)
 print(type(the_person_is_single))#usamos esta linea para ver que tipo de dato es.
+
+#inputs
+my_age = input("cual es tu edad? ")
+print("tu edad es =>", my_age)
+#aqui estamos nosotros solicitando al usuario la informacion para poder imprimirla en la consola.
