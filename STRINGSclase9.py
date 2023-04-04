@@ -28,6 +28,6 @@ print("forma 2", concatenacion)
 
 #forrma 3
 concatenacion = f"hola mi nombre es {name} y mi apellido es {last_name}"
-print("v3", concatenacion)
+print("forma 3", concatenacion)
 
 #como vemos son diferentes en codigo pero las tres hacen exacatamente lo mismo.
